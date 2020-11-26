@@ -1,0 +1,26 @@
+body{
+    background: #1E0555;
+}
+
+#textDisplay {
+    text-align: justify;
+}
+
+.text-wrapper{
+    background: #F0DB4F;
+    border-radius: 10px;
+}
+
+.text-input {
+    height: 150px !important;
+    resize: none;
+    font-weight: bold;
+}
+
+.correct {
+    color: green;
+}
+.incorrect {
+    color: red;
+    text-decoration: underline;
+}
